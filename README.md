@@ -1,6 +1,8 @@
 # Deniam-16 for MiSTer
 
-<!-- Screenshots: add title / gameplay images here (e.g. Logic Pro, Karian Cross, Logic Pro 2). -->
+<img width="320" height="224" alt="image" src="https://github.com/user-attachments/assets/d667f1e5-6d69-46c4-8139-e69724b921a4" /> <img width="320" height="224" alt="image" src="https://github.com/user-attachments/assets/98c40032-412d-4511-a6eb-bc5dc0620887" />
+
+
 
 A MiSTer FPGA core for the Korean company **Deniam**'s 68000-based arcade boards, **deniam-16b** and
 **deniam-16c** (1996-1997), and the puzzle games that run on them: **Logic Pro** (released in Korea and
